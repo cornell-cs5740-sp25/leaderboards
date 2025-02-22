@@ -91,6 +91,7 @@ score,method,member
 0.7327,perceptron,avinair108
 0.7327,perceptron,anyaeross18
 0.7326,perceptron,Boca-J
+0.7326,mlp,kapa-moon
 0.7325,perceptron,JerryGgzm
 0.7302,perceptron,mihika-jain
 0.73,perceptron,Qiaolin-Yu
@@ -111,8 +112,8 @@ score,method,member
 0.7212,perceptron,aandime
 0.7211,perceptron,khass2024
 0.7208,perceptron,irenejy
-0.7205,mlp,olivesmoo
 0.7205,perceptron,bhavya-gopal
+0.7205,mlp,olivesmoo
 0.7197,perceptron,KaKituken
 0.7196,perceptron,fkhan000
 0.7189,perceptron,adi-bal
@@ -121,8 +122,8 @@ score,method,member
 0.7146,perceptron,MingshuL
 0.7116,perceptron,winstontsuicornell
 0.7114,mlp,leoleoleoleosix
-0.7112,perceptron,Soundpulse
 0.7112,mlp,chocokook
+0.7112,perceptron,Soundpulse
 0.7107,mlp,Saksham-Mohan
 0.7083,perceptron,ginoitaliano
 0.7079,perceptron,tbor363
@@ -157,7 +158,6 @@ score,method,member
 0.6581,mlp,Algorithmist-Girl
 0.6551,mlp,Beichen-Ma
 0.6549,mlp,bhoomikamehta
-0.6529,mlp,kapa-moon
 0.6494,perceptron,DavidQifongJiang
 0.6482,mlp,MingshuL
 0.647,perceptron,Irene-hy
