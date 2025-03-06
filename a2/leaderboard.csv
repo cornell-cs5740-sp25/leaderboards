@@ -21,9 +21,9 @@ Score,Method,Member,Comment
 0.06223,word2vec,yewentao256,
 0.05992,word2vec,Soundpulse,
 0.04762,word2vec,andyrochi,
+0.03943,word2vec,aneeshat01,
 -0.00436,word2vec,eigenValue7,
 -0.01101,word2vec,mitkrieg,
--0.02003,word2vec,aneeshat01,
 -0.02456,word2vec,YiT-qg,
 -0.04057,word2vec,VictorYu379,
 -0.07549,word2vec,yadonghou7,
@@ -75,4 +75,5 @@ Score,Method,Member,Comment
 -0.07549,word2vec,Algorithmist-Girl,
 -0.07874,word2vec,lizz27,
 ,word2vec,rnucuta,Error computing correlation!
+,,avinair108,Error computing correlation!
 ,word2vec,NeenaSpace,Error computing correlation!
