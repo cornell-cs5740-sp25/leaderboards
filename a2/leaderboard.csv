@@ -21,6 +21,7 @@ Score,Method,Member,Comment
 0.289,word2vec,LexiYin-mh,
 0.28757,word2vec,Ceudan,
 0.28749,word2vec,lizz27,
+0.28562,word2vec,wenfyan,
 0.27594,word2vec,ginoitaliano,
 0.27386,word2vec,adi-bal,
 0.26896,word2vec,rachnaumesh,
@@ -75,14 +76,12 @@ Score,Method,Member,Comment
 0.09074,word2vec,DavidQifongJiang,
 0.08462,word2vec,akhilvreddy,
 0.05164,word2vec,awwstin,
-0.04835,word2vec,Irene-hy,
 0.03563,word2vec,Boca-J,
 0.033,word2vec,xiaocheny1209,
 -0.00191,word2vec,leoleoleoleosix,
 -0.01792,word2vec,alexanderquispe,
 -0.07549,word2vec,ztvtn,
 -0.07549,word2vec,yh277,
--0.07549,word2vec,wenfyan,
 -0.07549,word2vec,tbor363,
 -0.07549,word2vec,sebastianrjay,
 -0.07549,word2vec,MichaelM7X,
@@ -91,3 +90,4 @@ Score,Method,Member,Comment
 -0.07549,word2vec,Algorithmist-Girl,
 ,word2vec,jaekim123,Error computing correlation!
 ,word2vec,NeenaSpace,Error computing correlation!
+,word2vec,Irene-hy,Error computing correlation!
