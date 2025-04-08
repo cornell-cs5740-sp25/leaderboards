@@ -1,7 +1,13 @@
 Score,Method,Member,Comment
+0.41559,word2vec,rnucuta,
 0.30422,word2vec,yewentao256,
 0.02895,gpt2,yewentao256,
+0.02895,gpt2,rnucuta,
+0.02895,gpt2,dchoiboi00,
 0.02895,gpt2,aneeshat01,
 -0.04385,bert,yewentao256,
+-0.04385,bert,rnucuta,
+-0.04385,bert,dchoiboi00,
 -0.04385,bert,aneeshat01,
+-0.07549,word2vec,dchoiboi00,
 -0.07549,word2vec,aneeshat01,
